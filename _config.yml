@@ -2,7 +2,7 @@
 title: Vincent Boudreau
 subtitle: Cell + Computational Biologist
 email: viboud@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Maddox lab graduate student - Biology department - UNC Chapel Hill
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -15,7 +15,7 @@ phone: (919) 903-7212
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings
 500px_url:
