@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About
-description: 
+description: My CV is here
 image: assets/images/TCM17.jpg
 nav-menu: true
 ---
