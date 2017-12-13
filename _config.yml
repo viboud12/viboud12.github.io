@@ -3,7 +3,7 @@ title: Vincent Boudreau
 subtitle: Cell + Computational Biologist
 email: viboud@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: University of North Carolina - Chapel Hill
@@ -11,7 +11,7 @@ city: Chapel Hill
 state: NC
 zip_code: 
 country: United States of America
-phone:
+phone: (919) 903-7212
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
