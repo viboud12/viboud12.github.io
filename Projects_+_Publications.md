@@ -28,6 +28,7 @@ nav-menu: true
 		<a href="generic.html" class="image">
 			<img src="assets/images/centrosome2.png" alt="" data-position="top center" />
 		</a>
+		<div class="content">
 			<div class="inner">
 				<header class="major">
 				<h3>Regulation of centrosome migration during mitotic spindle formation</h3>
