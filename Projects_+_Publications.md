@@ -1,7 +1,7 @@
 ---
 title: Projects + Publications
 layout: landing
-description: Project description and publication list
+description: 
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/expansion.png" alt="" data-position="center center" />
+			<img src="assets/images/expansion4.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -29,7 +29,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/centrosome.png" alt="" data-position="top center" />
+			<img src="assets/images/centrosome2.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
