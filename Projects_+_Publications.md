@@ -1,7 +1,7 @@
 ---
 title: Projects + Publications
 layout: landing
-description: 
+description: Past, Current and Future Gigs
 image: assets/images/expansion.png
 nav-menu: true
 ---
