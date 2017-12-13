@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-		<a url="https://github.com/viboud12/Condensation_Assay" class="image">
+		<a url=https://github.com/viboud12/Condensation_Assay class="image">
 			<img src="assets/images/condensation.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -20,9 +20,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Condensation Assay</h3>
 				</header>
-				<p>Originally developed by <a url="assets/maddoxcond.html">Paul Maddox</a>, the condensation assay can be used to determine how much of a given cellular component is localized to a given structure. In its ImageJ format, the plugin first prompts the user to place a box over a given structure of interest in every frame in a time lapse movie, identifies the minimum and maximum intensity values in each box and thresholds fluorescence intensities within the identified dynamic range. This approach has been used to determine chromatin condensation state both during condensation and decondensation.</p>
+				<p>Originally developed by <a url=assets/maddoxcond.html>Paul Maddox</a>, the condensation assay can be used to determine how much of a given cellular component is localized to a given structure. In its ImageJ format, the plugin first prompts the user to place a box over a given structure of interest in every frame in a time lapse movie, identifies the minimum and maximum intensity values in each box and thresholds fluorescence intensities within the identified dynamic range. This approach has been used to determine chromatin condensation state both during condensation and decondensation.</p>
 				<ul class="actions">
-					<li><a url="https://github.com/viboud12/Condensation_Assay" class="button">Plugin</a></li>
+					<li><a url=https://github.com/viboud12/Condensation_Assay class="button">Plugin</a></li>
 				</ul>
 			</div>
 		</div>
