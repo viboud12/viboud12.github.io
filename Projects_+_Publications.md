@@ -2,7 +2,7 @@
 title: Projects + Publications
 layout: landing
 description: 
-image: assets/images/pic07.jpg
+image: assets/images/expansion.jpg
 nav-menu: true
 ---
 
