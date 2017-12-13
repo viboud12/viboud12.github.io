@@ -61,7 +61,16 @@ nav-menu: true
 	</section>
 </section>
 
-</div>
+<!-- Two -->
+<section id="two">
+	<div class="inner">
+		<header class="major">
+			<h2>Sed amet aliquam</h2>
+		</header>
+		<p>
+Methods/protocols/chapters
+Ryan J., Gerhold A.R., Boudreau V., Smith L., Maddox P.S. (2017) Introduction to Modern Methods in Light Microscopy. In: Markaki Y., Harz H. (eds) Light Microscopy. Methods in Molecular Biology, vol 1563. Humana Press, New York, NY</p>
+	</div>
 </section>
 
 
