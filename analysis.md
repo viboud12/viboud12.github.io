@@ -28,7 +28,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a https://github.com/viboud12/CellMorph class="image">
+		<a href="https://github.com/viboud12/CellMorph" class="image">
 			<img src="assets/images/CellMorph_figure.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -38,13 +38,13 @@ nav-menu: true
 				</header>
 				<p>Working with Mark Peifer's lab at UNC Chapel Hill, I made this ImageJ plugin to quickly measure cell size and shape in epithelial monolayers. Although this was developed to be used with images of cellularized fly embryos, this plugin could be applied to any monolayer stained for cell boundaries. Given the highly automated nature of this plugin, a version of the plugin is available to analyze entire folders of images. The analysis returns cell size information (area and perimeter) and cell shape information (circularity, aspect ratio, roundness, etc).</p>
 				<ul class="actions">
-					<li><a https://github.com/viboud12/CellMorph class="button">Plugin</a></li>
+					<li><a href="https://github.com/viboud12/CellMorph" class="button">Plugin</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a https://github.com/viboud12/MeasureSpindles class="image">
+		<a href="https://github.com/viboud12/MeasureSpindles" class="image">
 			<img src="assets/images/spindle.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -52,9 +52,9 @@ nav-menu: true
 				<header class="major">
 					<h3>MeasureSpindles</h3>
 				</header>
-				<p>Collaborating with Amy Byrnes in Kevin Slep's lab at UNC Chapel Hill, this plugin was inspired by <a https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4828689/>Rebecca Heald's lab's work</a> to automate measurements of mitotic spindle lengths and to extract spindle size and shape information out of existing data. The plugin segments spindles either based on a microtubule stain or on a microtubule stain in addition to a centrosomal stain. Once the spindle is segmented, the analysis provides several size and shape measurements including the feret's diameter, which measures the longest distance between two points in the object, as a measurement of spindle length.</p>
+				<p>Collaborating with Amy Byrnes in Kevin Slep's lab at UNC Chapel Hill, this plugin was inspired by <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4828689/">Rebecca Heald's lab's work</a> to automate measurements of mitotic spindle lengths and to extract spindle size and shape information out of existing data. The plugin segments spindles either based on a microtubule stain or on a microtubule stain in addition to a centrosomal stain. Once the spindle is segmented, the analysis provides several size and shape measurements including the feret's diameter, which measures the longest distance between two points in the object, as a measurement of spindle length.</p>
 				<ul class="actions">
-					<li><a https://github.com/viboud12/MeasureSpindles class="button">Plugin</a></li>
+					<li><a href="https://github.com/viboud12/MeasureSpindles" class="button">Plugin</a></li>
 				</ul>
 			</div>
 		</div>
