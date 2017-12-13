@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-		<a href="assets/gitcond.html" class="image">
+		<a url="https://github.com/viboud12/"Condensation_Assay" class="image">
 			<img src="assets/images/condensation.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
