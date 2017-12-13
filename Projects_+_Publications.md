@@ -2,7 +2,7 @@
 title: Projects + Publications
 layout: landing
 description: Past, Current and Future Gigs
-image: assets/images/expansion.png
+image: assets/images/expansion2.png
 nav-menu: true
 ---
 
@@ -31,7 +31,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-				<h3>Regulation of centrosome migration during mitotic spindle formation</h3>
+					<h3>Regulation of centrosome migration during mitotic spindle formation</h3>
 				</header>
 				<p>Having identified a functional interaction between a cell cycle phosphatase and a nuclear lamina component, we investigated the role for these components in regulating early mitotic events in the developing worm embryo. We uncover a role for the phosphatase and the nuclear lamina in regulating centrosome migration and positioning during mitotic spindle formation of the first embryonic mitosis.</p>
 			</div>
