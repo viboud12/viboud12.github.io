@@ -59,18 +59,29 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="https://github.com/viboud12/DIC_Morphology_Assay" class="image">
+			<img src="assets/images/dic.png" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>CellMorph</h3>
+				</header>
+				<p>Looking to take advantage of DIC images traditionaly used as reference images in live-cell fluorescence microscopy experiments, this plugin segments cells in DIC images to track cell shape changes over time. I used this approach to quantify cell shape change through the last steps of mitosis as cells go from a rounded, spherical shape to an elongated shape in anaphase, to a dumbell shaped cell in telophase.</p>
+				<ul class="actions">
+					<li><a href="https://github.com/viboud12/DIC_Morphology_Assay" class="button">Plugin</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
-<!-- Two -->
-<section id="two">
-	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>
-Methods/protocols/chapters
-Ryan J., Gerhold A.R., Boudreau V., Smith L., Maddox P.S. (2017) Introduction to Modern Methods in Light Microscopy. In: Markaki Y., Harz H. (eds) Light Microscopy. Methods in Molecular Biology, vol 1563. Humana Press, New York, NY</p>
-	</div>
+
+
+
+
+
 </section>
 
 
