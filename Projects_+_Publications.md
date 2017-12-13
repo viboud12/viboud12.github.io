@@ -70,8 +70,9 @@ nav-menu: true
 		<p>
 <h4>Methods/protocols/chapters</h4>
 
-<p>Ryan J., Gerhold A.R., Boudreau V., Smith L., Maddox P.S. (2017) Introduction to Modern Methods in Light Microscopy. In: Markaki Y., Harz H. (eds) Light Microscopy. Methods in Molecular Biology, vol 1563. Humana Press, New York, NY</p>
-	</div>
+<p>Ryan J., Gerhold A.R., <b>Boudreau V.</b>, Smith L., Maddox P.S. (2017) Introduction to Modern Methods in Light Microscopy. In: Markaki Y., Harz H. (eds) Light Microscopy. Methods in Molecular Biology, vol 1563. Humana Press, New York, NY</p>
+
+</div>
 </section>
 
 
