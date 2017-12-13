@@ -28,8 +28,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<img src="assets/images/centrosome2.png" alt="" data-position="top center" />
-		<div class="content">
+		<a href="generic.html" class="image">
+			<img src="assets/images/centrosome2.png" alt="" data-position="top center" />
+		</a>
 			<div class="inner">
 				<header class="major">
 				<h3>Regulation of centrosome migration during mitotic spindle formation</h3>
@@ -39,7 +40,9 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
+	<a href="generic.html" class="image">
 			<img src="assets/images/pyriformis.png" alt="" data-position="25% 25%" />
+		</a>	
 		<div class="content">
 			<div class="inner">
 				<header class="major">
