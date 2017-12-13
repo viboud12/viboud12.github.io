@@ -29,7 +29,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="https://github.com/viboud12/CellMorph" class="image">
-			<img src="assets/images/CellMorph_figure.png" alt="" data-position="top center" />
+			<img src="assets/images/CellMorph_figure-01.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
