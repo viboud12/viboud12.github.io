@@ -12,22 +12,22 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-			<img src="assets/images/flies2.gif" alt="" data-position="center center" />
+		<img src="assets/images/flies2.gif" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>How nuclei expand to form functional organelles</h3>
+				<h3>How nuclei expand to form functional organelles</h3>
 				</header>
 				<p>Through a highly collaborative effort between our lab and the labs of Jay Gatlin, Jun Allard and Hernan Garcia, we used quantitative live-cell microscopy assays, mathematical modelling and several model systems to determine how the nucleus is assembled into a functional organelle. Using our model to predict nuclear assembly regulators, we uncovered a role for nucleo-cytoplasmic trafficking in modulating the amount of factors regulating nuclear surface area and hence, nuclear surface tension.</p>
 			</div>
 		</div>
 	</section>
 	<section>
-			<img src="assets/images/centrosome2.png" alt="" data-position="top center" />
+		<img src="assets/images/centrosome2.png" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Regulation of centrosome migration during mitotic spindle formation</h3>
+				<h3>Regulation of centrosome migration during mitotic spindle formation</h3>
 				</header>
 				<p>Having identified a functional interaction between a cell cycle phosphatase and a nuclear lamina component, we investigated the role for these components in regulating early mitotic events in the developing worm embryo. We uncover a role for the phosphatase and the nuclear lamina in regulating centrosome migration and positioning during mitotic spindle formation of the first embryonic mitosis.</p>
 			</div>
