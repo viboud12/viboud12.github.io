@@ -17,5 +17,5 @@ Mostly though, being able to collaborate with several students, post-docs and la
 <p>Once I get my degree (someday?), I'll be shifting my focus to work on algal symbiosis and metabolism to address <b>how hosts regulate their algal symbionts, how this regulation affects algal metabolism and how algal endosymbionts in turn regulate their hosts</b>. This work is inspired by our observations of the symbiotic relationship in the wild ciliate <i>Stentor pyriformis</i> under the supervision of Wallace Marshall (UCSF) in the context of <b>the Physiology course hosted by the Marine Biological Laboratory</b> in Woods Hole, MA.</p>
 
 <ul class="actions">
-	<li><a href="assets/elements.html" class="button big">CV</a></li>
+	<li><a href="assets/CV.pdf" class="button big">CV</a></li>
 </ul>
