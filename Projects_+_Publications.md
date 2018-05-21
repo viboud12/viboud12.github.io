@@ -23,7 +23,7 @@ nav-menu: true
 				<p>Through a highly collaborative effort between our lab and the labs of Jay Gatlin, Jun Allard and Hernan Garcia, we used quantitative live-cell microscopy assays, mathematical modelling and several model systems to determine how the nucleus is assembled into a functional organelle. Using our model to predict nuclear assembly regulators, we uncovered a role for nucleo-cytoplasmic trafficking in modulating the amount of factors regulating nuclear surface area and hence, nuclear surface tension.</p>
 				<header class="major">
 					<h4>Associated preprint</h4>
-				</header>
+				
 			</div>
 		</div>
 	</section>
@@ -64,8 +64,8 @@ nav-menu: true
 		<p>
 <h4>Research articles</h4>
 
-<p><b>Boudreau V.</b>, Hazel J., Sellinger J.K., Chen P., Manakova K., Radzyminski R., Garcia H.G., Allard J., Gatlin J., Maddox P.S. (2018) Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis. bioRxiv 326140; doi: https://doi.org/10.1101/326140</p>
+<p><b>Boudreau V.</b>, Hazel J., Sellinger J.K., Chen P., Manakova K., Radzyminski R., Garcia H.G., Allard J., Gatlin J., Maddox P.S. (2018) [Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis.](https://www.biorxiv.org/content/early/2018/05/18/326140) bioRxiv 326140; doi: https://doi.org/10.1101/326140</p>
 		
 <h4>Methods/protocols/chapters</h4>
 
-<p>Ryan J., Gerhold A.R., <b>Boudreau V.</b>, Smith L., Maddox P.S. (2017) Introduction to Modern Methods in Light Microscopy. In: Markaki Y., Harz H. (eds) Light Microscopy. Methods in Molecular Biology, vol 1563. Humana Press, New York, NY</p>
+<p>Ryan J., Gerhold A.R., <b>Boudreau V.</b>, Smith L., Maddox P.S. (2017) [Introduction to Modern Methods in Light Microscopy.](https://link.springer.com/protocol/10.1007/978-1-4939-6810-7_1) In: Markaki Y., Harz H. (eds) Light Microscopy. Methods in Molecular Biology, vol 1563. Humana Press, New York, NY</p>
