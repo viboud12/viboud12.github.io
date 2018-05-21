@@ -64,8 +64,8 @@ nav-menu: true
 		<p>
 <h4>Research articles</h4>
 
-<p><b>Boudreau V.</b>, Hazel J., Sellinger J.K., Chen P., Manakova K., Radzyminski R., Garcia H.G., Allard J., Gatlin J., Maddox P.S. (2018) <a href="https://www.biorxiv.org/content/early/2018/05/18/326140">Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis.</a> bioRxiv 326140; doi: https://doi.org/10.1101/326140</p>
+<p><b>Boudreau V.</b>, Hazel J., Sellinger J.K., Chen P., Manakova K., Radzyminski R., Garcia H.G., Allard J., Gatlin J., Maddox P.S. (2018) <a href="https://www.biorxiv.org/content/early/2018/05/18/326140">Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis.</a> bioRxiv 326140; doi: <a href="https://doi.org/10.1101/326140">https://doi.org/10.1101/326140</a></p>
 		
 <h4>Methods/protocols/chapters</h4>
 
-<p>Ryan J., Gerhold A.R., <b>Boudreau V.</b>, Smith L., Maddox P.S. (2017) <a href="https://link.springer.com/protocol/10.1007/978-1-4939-6810-7_1">Introduction to Modern Methods in Light Microscopy.</a> In: Markaki Y., Harz H. (eds) Light Microscopy. Methods in Molecular Biology, vol 1563. Humana Press, New York, NY; doi: https://doi.org/10.1007/978-1-4939-6810-7_1</p>
+<p>Ryan J., Gerhold A.R., <b>Boudreau V.</b>, Smith L., Maddox P.S. (2017) <a href="https://link.springer.com/protocol/10.1007/978-1-4939-6810-7_1">Introduction to Modern Methods in Light Microscopy.</a> In: Markaki Y., Harz H. (eds) Light Microscopy. Methods in Molecular Biology, vol 1563. Humana Press, New York, NY; doi: <a href="https://doi.org/10.1007/978-1-4939-6810-7_1">https://doi.org/10.1007/978-1-4939-6810-7_1</a></p>
