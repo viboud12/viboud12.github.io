@@ -23,7 +23,7 @@ nav-menu: true
 				<p>Through a highly collaborative effort between our lab and the labs of Jay Gatlin, Jun Allard and Hernan Garcia, we used quantitative live-cell microscopy assays, mathematical modelling and several model systems to determine how the nucleus is assembled into a functional organelle. Using our model to predict nuclear assembly regulators, we uncovered a role for nucleo-cytoplasmic trafficking in modulating the amount of factors regulating nuclear surface area and hence, nuclear surface tension.</p>
 				<header class="major">
 					<h4>Associated preprint</h4>
-				
+				</header>
 			</div>
 		</div>
 	</section>
