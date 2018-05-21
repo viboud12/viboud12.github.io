@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-		<a href="Projects_+_Publications.html" class="image">
+		<a href="https://www.biorxiv.org/content/early/2018/05/18/326140" class="image">
 			<img src="assets/images/flies2.gif" alt="" data-position="center center" />
 		</a>
 		<div class="content">
