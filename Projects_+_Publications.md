@@ -22,7 +22,7 @@ nav-menu: true
 				</header>
 				<p>Through a highly collaborative effort between our lab and the labs of Jay Gatlin, Jun Allard and Hernan Garcia, we used quantitative live-cell microscopy assays, mathematical modelling and several model systems to determine how the nucleus is assembled into a functional organelle. Using our model to predict nuclear assembly regulators, we uncovered a role for nucleo-cytoplasmic trafficking in modulating the amount of factors regulating nuclear surface area and hence, nuclear surface tension.</p>
 					<h4>Associated preprint</h4>
-				</header>
+				<p><b>Boudreau V.</b>, Hazel J., Sellinger J.K., Chen P., Manakova K., Radzyminski R., Garcia H.G., Allard J., Gatlin J., Maddox P.S. (2018) <a href="https://www.biorxiv.org/content/early/2018/05/18/326140">Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis.</a> bioRxiv 326140; doi: <a href="https://doi.org/10.1101/326140">https://doi.org/10.1101/326140</a></p>
 			</div>
 		</div>
 	</section>
