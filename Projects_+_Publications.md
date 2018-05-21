@@ -64,7 +64,7 @@ nav-menu: true
 		<p>
 <h4>Research articles</h4>
 
-<p>Boudreau V., Hazel J., Sellinger J.K., Chen P., Manakova K., Radzyminski R., Garcia H.G., Allard J., Gatlin J., Maddox P.S. (2018) Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis. bioRxiv 326140; doi: https://doi.org/10.1101/326140</p>
+<p><b>Boudreau V.</b>, Hazel J., Sellinger J.K., Chen P., Manakova K., Radzyminski R., Garcia H.G., Allard J., Gatlin J., Maddox P.S. (2018) Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis. bioRxiv 326140; doi: https://doi.org/10.1101/326140</p>
 		
 <h4>Methods/protocols/chapters</h4>
 
