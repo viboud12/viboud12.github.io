@@ -62,6 +62,14 @@ nav-menu: true
 		</header>
 		<p>
 <h4>Research articles</h4>
+		
+<p><b>Boudreau V.</b>, Chen R., Edwards A., Muhammad S., Maddox P.S. (2018) Cytoplasmic nuclear envelope tethering and microtubule motor-based forces collaborate in positioning centrosomes during mitotic entry. (in preparation)</p>
+
+<p>Hatkevich T., <b>Boudreau V.</b>, Rubin T., Huynh J.-R., Maddox P.S., Sekelsky J. Centromere clustering promotes meiotic homolog pairing and synapsis. (in preparation)</p>
+
+<p>Mehsen M., <b>Boudreau V.</b>, Garrido D., Bouroh M., Larouche M., Maddox P.S., Swan A., Archambault V. PP2A-B55 promotes nuclear envelope reformation after mitosis in Drosophila. (in revision)</p>
+
+<p>Byrnes A.E., Lowe B.F., <b>Boudreau V.</b>, Slep K.C. Polarized TOG arrays cooperatively bind tubulin to promote microtubule dynamics. (in revision)</p>
 
 <p><b>Boudreau V.</b>, Hazel J., Sellinger J.K., Chen P., Manakova K., Radzyminski R., Garcia H.G., Allard J., Gatlin J., Maddox P.S. (2018) <a href="https://www.biorxiv.org/content/early/2018/05/18/326140">Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis.</a> bioRxiv 326140; doi: <a href="https://doi.org/10.1101/326140">https://doi.org/10.1101/326140</a></p>
 		
