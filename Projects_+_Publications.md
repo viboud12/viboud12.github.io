@@ -69,7 +69,7 @@ nav-menu: true
 
 <p>Hatkevich T., <b>Boudreau V.</b>, Rubin T., Huynh J.-R., Maddox P.S., Sekelsky J. Centromere clustering promotes meiotic homolog pairing and synapsis. (in preparation)</p>
 
-<p>Mehsen M., <b>Boudreau V.</b>, Garrido D., Bouroh M., Larouche M., Maddox P.S., Swan A., Archambault V. (2018) PP2A-B55 promotes nuclear envelope reformation after mitosis in Drosophila. J Cell Biology (in press)</p>
+<p>Mehsen M., <b>Boudreau V.</b>, Garrido D., Bourouh M., Larouche M., Maddox P.S., Swan A., Archambault V. (2018) <a href="http://jcb.rupress.org/content/early/2018/10/10/jcb.201804018">PP2A-B55 promotes nuclear envelope reformation after mitosis in Drosophila.</a> J Cell Biology; doi: <a href="http://jcb.rupress.org/content/early/2018/10/10/jcb.201804018">10.1083/jcb.201804018</a></p>
 
 <p>Byrnes A.E., Lowe B.F., <b>Boudreau V.</b>, Slep K.C. Polarized TOG arrays cooperatively bind tubulin to promote microtubule dynamics. (in revision)</p>
 
