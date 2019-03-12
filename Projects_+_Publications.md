@@ -33,11 +33,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Regulation of centrosome migration during mitotic spindle formation</h3>
+					<h3>Regulation of centrosome separation during mitotic spindle formation</h3>
 				</header>
-				<p>Having identified a functional interaction between a cell cycle phosphatase and a nuclear lamina component, we investigated the role for these components in regulating early mitotic events in the developing worm embryo. We uncovered a role for the phosphatase and the nuclear lamina in regulating centrosome migration and positioning during mitotic spindle formation of the first embryonic mitosis.</p>
-				<h4>Associated preprint</h4>
-				<p><b>Boudreau V.</b>, Chen R., Edwards A., Sulaimain M., Maddox P.S. (2018) <a href="https://www.biorxiv.org/content/early/2018/10/12/442368">Centrosome-nuclear envelope tethering and microtubule motor-based pulling forces collaborate in centrosome positioning during mitotic entry.</a> bioRxiv 442368; doi: <a href="https://doi.org/10.1101/442368">https://doi.org/10.1101/442368</a></p>
+				<p>Having identified a functional interaction between a cell cycle phosphatase and a nuclear lamina component, we investigated the role for these components in regulating early mitotic events in the developing worm embryo. We uncovered a role for the phosphatase and the nuclear lamina in regulating centrosome separation and positioning during mitotic spindle formation of the first embryonic mitosis.</p>
+				<h4>Publication</h4>
+				<p><b>Boudreau V.</b>, Chen R., Edwards A., Muhammad S., Maddox P.S. (2019) <a href="https://doi.org/10.1091/mbc.E18-10-0631">PP2A-B55/SUR-6 collaborates with the nuclear lamina for centrosome separation during mitotic entry.</a> Mol Biol Cell; doi: <a href="https://doi.org/10.1091/mbc.E18-10-0631">10.1091/mbc.E18-10-0631</a></p>
+<p><b>Featured in the MBoC's Fifth Annual Special Issue on Quantitative Cell Biology</b></p>
 			</div>
 		</div>
 	</section>
@@ -65,8 +66,8 @@ nav-menu: true
 		<p>
 <h4>Research articles</h4>
 		
-<p><b>Boudreau V.</b>, Chen R., Edwards A., Muhammad S., Maddox P.S. (2018) <a href="https://doi.org/10.1091/mbc.E18-10-0631">PP2A-B55/SUR-6 collaborates with the nuclear lamina for centrosome separation during mitotic entry.</a> Mol Biol Cell; doi: <a href="https://doi.org/10.1091/mbc.E18-10-0631">10.1091/mbc.E18-10-0631</a>
-<b>Featured in the MBoC's Fifth Annual Special Issue on Quantitative Cell Biology</b></p>
+<p><b>Boudreau V.</b>, Chen R., Edwards A., Muhammad S., Maddox P.S. (2019) <a href="https://doi.org/10.1091/mbc.E18-10-0631">PP2A-B55/SUR-6 collaborates with the nuclear lamina for centrosome separation during mitotic entry.</a> Mol Biol Cell; doi: <a href="https://doi.org/10.1091/mbc.E18-10-0631">10.1091/mbc.E18-10-0631</a></p>
+<p><b>Featured in the MBoC's Fifth Annual Special Issue on Quantitative Cell Biology</b></p>
 
 <p>Hatkevich T., <b>Boudreau V.</b>, Rubin T., Huynh J.-R., Maddox P.S., Sekelsky J. Centromere clustering promotes meiotic homolog pairing and synapsis. (submitted)</p>
 
