@@ -65,9 +65,10 @@ nav-menu: true
 		<p>
 <h4>Research articles</h4>
 		
-<p><b>Boudreau V.</b>, Chen R., Edwards A., Muhammad S., Maddox P.S. (2018) <a href="https://www.biorxiv.org/content/early/2018/10/12/442368">Centrosome-nuclear envelope tethering and microtubule motor-based pulling forces collaborate in centrosome positioning during mitotic entry.</a> bioRxiv 442368; doi: <a href="https://doi.org/10.1101/442368">https://doi.org/10.1101/442368</a></p>
+<p><b>Boudreau V.</b>, Chen R., Edwards A., Muhammad S., Maddox P.S. (2018) <a href="https://doi.org/10.1091/mbc.E18-10-0631">PP2A-B55/SUR-6 collaborates with the nuclear lamina for centrosome separation during mitotic entry.</a> Mol Biol Cell; doi: <a href="https://doi.org/10.1091/mbc.E18-10-0631">10.1091/mbc.E18-10-0631</a>
+<b>Featured in the MBoC's Fifth Annual Special Issue on Quantitative Cell Biology</b></p>
 
-<p>Hatkevich T., <b>Boudreau V.</b>, Rubin T., Huynh J.-R., Maddox P.S., Sekelsky J. Centromere clustering promotes meiotic homolog pairing and synapsis. (in preparation)</p>
+<p>Hatkevich T., <b>Boudreau V.</b>, Rubin T., Huynh J.-R., Maddox P.S., Sekelsky J. Centromere clustering promotes meiotic homolog pairing and synapsis. (submitted)</p>
 
 <p>Mehsen M., <b>Boudreau V.</b>, Garrido D., Bourouh M., Larouche M., Maddox P.S., Swan A., Archambault V. (2018) <a href="http://jcb.rupress.org/content/early/2018/10/10/jcb.201804018">PP2A-B55 promotes nuclear envelope reformation after mitosis in Drosophila.</a> J Cell Biology; doi: <a href="http://jcb.rupress.org/content/early/2018/10/10/jcb.201804018">10.1083/jcb.201804018</a></p>
 
