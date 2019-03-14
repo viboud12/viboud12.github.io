@@ -27,7 +27,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="https://www.biorxiv.org/content/early/2018/10/12/442368">
+		<a href="https://doi.org/10.1091/mbc.E18-10-0631">
 			<img src="assets/images/centrosome2.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
