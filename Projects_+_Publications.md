@@ -65,7 +65,7 @@ nav-menu: true
 		<p>
 <h4>Research articles</h4>
 		
-<p>Dumont M.*, Gamba R.*, Gestraud P, Klaasen S, Worrall J.T., De Vries S.G., <b>Boudreau V.</b>, Maddox P.S., Lens S.M.A., Kops G.J.P.L., Mc Clelland S., Miga K.H. & Fachinetti D. (2019) Chromosome-specific anueploidy in human is influenced by the inter-chrmosomal heeterogeniety of centromeric features. (submitted) *equal contribution</p>
+<p>Dumont M.*, Gamba R.*, Gestraud P, Klaasen S, Worrall J.T., De Vries S.G., <b>Boudreau V.</b>, Maddox P.S., Lens S.M.A., Kops G.J.P.L., Mc Clelland S., Miga K.H. & Fachinetti D. (2019) Human chromosome-specific aneuploidy is driven by DNA-dependent centromeric features. (submitted) *equal contribution</p>
 		
 <p><b>Boudreau V.</b>, Chen R., Edwards A., Muhammad S., Maddox P.S. (2019) <a href="https://doi.org/10.1091/mbc.E18-10-0631">PP2A-B55/SUR-6 collaborates with the nuclear lamina for centrosome separation during mitotic entry.</a> Mol Biol Cell; doi: <a href="https://doi.org/10.1091/mbc.E18-10-0631">10.1091/mbc.E18-10-0631.</a> <b>Featured in MBoC's Fifth Annual Special Issue on Quantitative Cell Biology.</b></p>
 
