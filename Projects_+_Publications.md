@@ -80,3 +80,7 @@ nav-menu: true
 <h4>Methods/protocols/chapters</h4>
 
 <p>Ryan J., Gerhold A.R., <b>Boudreau V.</b>, Smith L., Maddox P.S. (2017) <a href="https://link.springer.com/protocol/10.1007/978-1-4939-6810-7_1">Introduction to Modern Methods in Light Microscopy.</a> In: Markaki Y., Harz H. (eds) Light Microscopy. Methods in Molecular Biology, vol 1563. Humana Press, New York, NY; doi: <a href="https://doi.org/10.1007/978-1-4939-6810-7_1">https://doi.org/10.1007/978-1-4939-6810-7_1.</a></p>
+
+<h4>Other</h4>
+
+<p><a href="https://ackland.org/vincent-boudreau-unc-cell-biologist-gets-cajal-tattoo/">Interview with the Ackland Art Museum (UNC-Chapel Hill) for <i>The Beautiful Brain: The Drawings of Santiago Ramón y Cajal</i> exhibit.</a></p>
