@@ -6,10 +6,13 @@ image: assets/images/TCM17.jpg
 nav-menu: true
 ---
 
-<p><b>Postdoc</b>: University of California, Berkeley - <a href="https://niyogilab.berkeley.edu/">Niyogi lab</a> - Plant and Microbial Biology Department</p>
+<p><b>Postdoc</b> (joint appointment)
+University of California, Berkeley - <a href="https://niyogilab.berkeley.edu/">Niyogi lab</a> - Plant and Microbial Biology Department</p>
 University of California, San Francisco - <a href="https://niyogilab.berkeley.edu/">Marshall lab</a> - Center for Cellular Construction</p>
-<p><b>Grad school</b>: University of North Carolina at Chapel Hill - <a href="http://labs.bio.unc.edu/Maddox/Site/Welcome.html">Maddox lab</a> - Biology department</p>
-<p><b>Undergrad</b>: Université de Montréal - <a href="https://www.iric.ca/en/research/principal-investigators/vincent-archambault/
+<p><b>Grad school</b>
+University of North Carolina at Chapel Hill - <a href="http://labs.bio.unc.edu/Maddox/Site/Welcome.html">Maddox lab</a> - Biology department</p>
+<p><b>Undergrad</b>
+Université de Montréal - <a href="https://www.iric.ca/en/research/principal-investigators/vincent-archambault/
 ">Archambault lab</a> - Institute for Research in Cancer and Immunology</p>
 
 <h4>Current</h4>
