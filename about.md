@@ -10,7 +10,7 @@ nav-menu: true
 <p>University of California, Berkeley - <a href="https://niyogilab.berkeley.edu/">Niyogi lab</a> - Plant and Microbial Biology Department</p>
 <p>University of California, San Francisco - <a href="https://niyogilab.berkeley.edu/">Marshall lab</a> - Center for Cellular Construction</p>
 <p><b>Grad school</b></p>
-<p>University of North Carolina at Chapel Hill - <a href="http://labs.bio.unc.edu/Maddox/Site/Welcome.html">Maddox lab</a> - Biology department</p>
+<p>University of North Carolina at Chapel Hill - <a href="http://labs.bio.unc.edu/Maddox/Site/Welcome.html">Maddox lab</a> - Biology Department</p>
 <p><b>Undergrad</b></p>
 <p>Université de Montréal - <a href="https://www.iric.ca/en/research/principal-investigators/vincent-archambault/
 ">Archambault lab</a> - Institute for Research in Cancer and Immunology</p>
