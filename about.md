@@ -6,8 +6,11 @@ image: assets/images/TCM17.jpg
 nav-menu: true
 ---
 
-<p><b>Undergrad</b>: Université de Montréal - Archambault lab - Institute for Research in Cancer and Immunology</p>
-<p><b>Grad school</b>: University of North Carolina at Chapel Hill - Maddox lab - Biology department</p>
+<p><b>Postdoc</b>: University of California, Berkeley - <a href="https://niyogilab.berkeley.edu/">Niyogi lab</a> - Plant and Microbial Biology Department</p>
+University of California, San Francisco - <a href="https://niyogilab.berkeley.edu/">Marshall lab</a> - Center for Cellular Construction</p>
+<p><b>Grad school</b>: University of North Carolina at Chapel Hill - <a href="http://labs.bio.unc.edu/Maddox/Site/Welcome.html">Maddox lab</a> - Biology department</p>
+<p><b>Undergrad</b>: Université de Montréal - <a href="https://www.iric.ca/en/research/principal-investigators/vincent-archambault/
+">Archambault lab</a> - Institute for Research in Cancer and Immunology</p>
 
 <h4>Current</h4>
 <p>As a graduate student in the Maddox lab at UNC Chapel Hill, I've been asking the fundamental question of how a nucleus comes to be a functional organelle within the cell. This is an essential process as every cell must form a new nucleus following cell division and condensed sperm chromatin must expand into a functional pronucleus following fertilization across organisms. We've been using <b>mathematical modelling</b>, <b>several model organisms</b> (mammalian cells, fly embryos, worm embryos, frog egg extracts) and <b>quantitative live-cell microscopy approaches</b> (tracking, morphological analyses, fluorescence intensity quantifications, etc) to determine the molecular requirements of nuclear expansion and assembly.
