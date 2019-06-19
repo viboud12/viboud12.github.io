@@ -65,11 +65,11 @@ nav-menu: true
 		<p>
 <h4>Research articles</h4>
 		
-<p>Dumont M.*, Gamba R.*, Gestraud P, Klaasen S, Worrall J.T., De Vries S.G., <b>Boudreau V.</b>, Maddox P.S., Lens S.M.A., Kops G.J.P.L., Mc Clelland S., Miga K.H. & Fachinetti D. (2019) Human chromosome-specific aneuploidy is driven by DNA-dependent centromeric features. (submitted) *equal contribution</p>
+<p>Dumont M.*, Gamba R.*, Gestraud P, Klaasen S, Worrall J.T., De Vries S.G., <b>Boudreau V.</b>, Maddox P.S., Lens S.M.A., Kops G.J.P.L., Mc Clelland S., Miga K.H. & Fachinetti D. (2019) Human chromosome-specific aneuploidy is driven by DNA-dependent centromeric features. (in revision) *equal contribution</p>
 		
 <p><b>Boudreau V.</b>, Chen R., Edwards A., Muhammad S., Maddox P.S. (2019) <a href="https://doi.org/10.1091/mbc.E18-10-0631">PP2A-B55/SUR-6 collaborates with the nuclear lamina for centrosome separation during mitotic entry.</a> Mol Biol Cell; doi: <a href="https://doi.org/10.1091/mbc.E18-10-0631">10.1091/mbc.E18-10-0631.</a> <b>Featured in MBoC's Fifth Annual Special Issue on Quantitative Cell Biology.</b></p>
 
-<p>Hatkevich T., <b>Boudreau V.</b>, Rubin T., Huynh J.-R., Maddox P.S., Sekelsky J. (2019) Centromere clustering promotes meiotic homolog pairing and synapsis. (submitted)</p>
+<p>Hatkevich T., <b>Boudreau V.</b>, Rubin T., Huynh J.-R., Maddox P.S., Sekelsky J. (2019) Centromere clustering promotes meiotic homolog pairing and synapsis. (in revision)</p>
 
 <p>Mehsen M., <b>Boudreau V.</b>, Garrido D., Bourouh M., Larouche M., Maddox P.S., Swan A., Archambault V. (2018) <a href="http://jcb.rupress.org/content/early/2018/10/10/jcb.201804018">PP2A-B55 promotes nuclear envelope reformation after mitosis in Drosophila.</a> J Cell Biology; doi: <a href="http://jcb.rupress.org/content/early/2018/10/10/jcb.201804018">10.1083/jcb.201804018.</a></p>
 
