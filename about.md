@@ -7,8 +7,8 @@ nav-menu: true
 ---
 
 <p><b>Postdoc</b> (joint appointment)</p>
-<p>University of California, Berkeley - <a href="https://niyogilab.berkeley.edu/">Niyogi lab</a> - Plant and Microbial Biology Department
-University of California, San Francisco - <a href="https://cellgeometry.ucsf.edu/">Marshall lab</a> - Center for Cellular Construction</p>
+<p>University of California, Berkeley - <a href="https://niyogilab.berkeley.edu/">Niyogi lab</a> - Plant and Microbial Biology Department</p>
+<p>University of California, San Francisco - <a href="https://cellgeometry.ucsf.edu/">Marshall lab</a> - Center for Cellular Construction</p>
 <p>As a joint postdoc between the Marshall (UCSF) and Niyogi (UCB) labs, I am interested in photosynthetic efficiency in the context of algal endosymbiosis. I am using micropatterning and light microscopy approaches to address <b>how hosts regulate their algal symbionts, how this regulation affects algal metabolism and how algal endosymbionts in turn regulate their hosts</b>. This work is inspired by our observations of the symbiotic relationship in the wild ciliate <i>Stentor pyriformis</i> in the context of <b>the Physiology course hosted by the Marine Biological Laboratory</b> in Woods Hole, MA.</p>
 <p><b>Grad school</b></p>
 <p>University of North Carolina at Chapel Hill - <a href="http://labs.bio.unc.edu/Maddox/Site/Welcome.html">Maddox lab</a> - Biology Department</p>
