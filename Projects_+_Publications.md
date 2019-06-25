@@ -12,7 +12,6 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-		<section>
 		<a href="Projects_+_Publications" class="image">
 			<img src="assets/images/pyriformis.png" alt="" data-position="25% 25%" />
 		</a>	
