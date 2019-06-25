@@ -12,6 +12,20 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
+		<section>
+		<a href="Projects_+_Publications" class="image">
+			<img src="assets/images/pyriformis.png" alt="" data-position="25% 25%" />
+		</a>	
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Structural, metabolic and behavioral relationship between a regenerative ciliate and its endosymbiotic algae</h3>
+				</header>
+				<p>Using a wild species of the large and regenerative unicellular ciliate, Stentor, we are studying the structural, metabolic and behavioural relationship between the ciliate and its algal endosymbionts. Given that this organism is native to a pond in Woods Hole, MA, this project is being pursued in the context of the Marine Biological Laboratory's Physiology Course, an intensive summer research course for graduate students and post-doctoral fellows.</p>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="https://www.biorxiv.org/content/early/2018/05/18/326140" class="image">
 			<img src="assets/images/flies2.gif" alt="" data-position="center center" />
 		</a>
@@ -41,19 +55,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-	<section>
-	<a href="Projects_+_Publications" class="image">
-			<img src="assets/images/pyriformis.png" alt="" data-position="25% 25%" />
-		</a>	
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Structural, metabolic and behavioral relationship between a regenerative ciliate and its endosymbiotic algae</h3>
-				</header>
-				<p>Using a wild species of the large and regenerative unicellular ciliate, Stentor, we are studying the structural, metabolic and behavioural relationship between the ciliate and its algal endosymbionts. Given that this organism is native to a pond in Woods Hole, MA, this project is being pursued in the context of the Marine Biological Laboratory's Physiology Course, an intensive summer research course for graduate students and post-doctoral fellows.</p>
-			</div>
-		</div>
-	</section>
+	
 </section>
 
 <!-- Two -->
