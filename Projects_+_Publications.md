@@ -66,17 +66,17 @@ nav-menu: true
 		<p>
 <h4>Research articles</h4>
 		
-<p>Dumont M.*, Gamba R.*, Gestraud P, Klaasen S, Worrall J.T., De Vries S.G., <b>Boudreau V.</b>, Maddox P.S., Lens S.M.A., Kops G.J.P.L., Mc Clelland S., Miga K.H. & Fachinetti D. (2019) Human chromosome-specific aneuploidy is driven by DNA-dependent centromeric features. (in revision) *equal contribution</p>
+<p>Dumont M.*, Gamba R.*, Gestraud P, Klaasen S, Worrall J.T., De Vries S.G., <b>Boudreau V.</b>, Maddox P.S., Lens S.M.A., Kops G.J.P.L., Mc Clelland S., Miga K.H. & Fachinetti D. (2019) Human chromosome-specific aneuploidy is influenced by DNA-dependent centromeric features. EMBO J (in press) *equal contribution</p>
 		
 <p><b>Boudreau V.</b>, Chen R., Edwards A., Muhammad S., Maddox P.S. (2019) <a href="https://doi.org/10.1091/mbc.E18-10-0631">PP2A-B55/SUR-6 collaborates with the nuclear lamina for centrosome separation during mitotic entry.</a> Mol Biol Cell; doi: <a href="https://doi.org/10.1091/mbc.E18-10-0631">10.1091/mbc.E18-10-0631.</a> <b>Featured in MBoC's Fifth Annual Special Issue on Quantitative Cell Biology.</b></p>
 
-<p>Hatkevich T., <b>Boudreau V.</b>, Rubin T., Huynh J.-R., Maddox P.S., Sekelsky J. (2019) Centromere clustering promotes meiotic homolog pairing and synapsis. (in revision)</p>
+<p>Hatkevich T., <b>Boudreau V.</b>, Rubin T., Huynh J.-R., Maddox P.S., Sekelsky J. (2019) Centromeric SMC1 promotes centromere clustering and stabilizes meiotic homolog pairing. PLoS Genetics; doi: <a href="https://doi.org/10.1371/journal.pgen.1008412">10.1371/journal.pgen.1008412.</a></p>
 
 <p>Mehsen M., <b>Boudreau V.</b>, Garrido D., Bourouh M., Larouche M., Maddox P.S., Swan A., Archambault V. (2018) <a href="http://jcb.rupress.org/content/early/2018/10/10/jcb.201804018">PP2A-B55 promotes nuclear envelope reformation after mitosis in Drosophila.</a> J Cell Biology; doi: <a href="http://jcb.rupress.org/content/early/2018/10/10/jcb.201804018">10.1083/jcb.201804018.</a></p>
 
 <p>Byrnes A.E., Lowe B.F., <b>Boudreau V.</b>, Slep K.C. Polarized TOG arrays cooperatively bind tubulin to promote microtubule dynamics. (in revision)</p>
 
-<p><b>Boudreau V.</b>, Hazel J., Sellinger J.K., Chen P., Manakova K., Radzyminski R., Garcia H.G., Allard J., Gatlin J., Maddox P.S. (2018) <a href="https://www.biorxiv.org/content/early/2018/05/18/326140">Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis.</a> bioRxiv 326140; doi: <a href="https://doi.org/10.1101/326140">https://doi.org/10.1101/326140.</a></p>
+<p><b>Boudreau V.</b>, Hazel J., Sellinger J.K., Chen P., Manakova K., Radzyminski R., Garcia H.G., Allard J., Gatlin J., Maddox P.S. (2018) <a href="https://www.biorxiv.org/content/early/2018/05/18/326140">Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis.</a> bioRxiv 326140; doi: <a href="https://doi.org/10.1101/326140">10.1101/326140.</a></p>
 		
 <h4>Methods/protocols/chapters</h4>
 
