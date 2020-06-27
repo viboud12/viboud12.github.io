@@ -80,7 +80,7 @@ nav-menu: true
 
 <h4>Science policy with the Future of Research (FoR)</h4>
 
-Bankston, A., Davis, S. M., Moore, E., Niziolek, C. A., <b>Boudreau V.</b>. (2020) <a href="https://osf.io/9k6rz/">Who’s On Board: Early Career Researchers Hold Scarce, yet Valuable Roles Within Scientific Societies.</a> OSF Preprints; doi: <a href="https://osf.io/9k6rz/.</a></p>
+Bankston, A., Davis, S. M., Moore, E., Niziolek, C. A., <b>Boudreau V.</b>. (2020) <a href="https://osf.io/9k6rz/">Who’s On Board: Early Career Researchers Hold Scarce, yet Valuable Roles Within Scientific Societies.</a> OSF Preprints; doi: <a href="https://osf.io/9k6rz/">https://osf.io/9k6rz/.</a></p>
 		
 <h4>Methods/protocols/chapters</h4>
 
