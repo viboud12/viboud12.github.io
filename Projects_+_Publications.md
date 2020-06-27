@@ -77,6 +77,10 @@ nav-menu: true
 <p>Byrnes A.E., Lowe B.F., <b>Boudreau V.</b>, Slep K.C. Polarized TOG arrays cooperatively bind tubulin to promote microtubule dynamics. (in revision)</p>
 
 <p><b>Boudreau V.</b>, Hazel J., Sellinger J.K., Chen P., Manakova K., Radzyminski R., Garcia H.G., Allard J., Gatlin J., Maddox P.S. (2018) <a href="https://www.biorxiv.org/content/early/2018/05/18/326140">Nucleo-cytoplasmic trafficking regulates nuclear surface area during nuclear organogenesis.</a> bioRxiv 326140; doi: <a href="https://doi.org/10.1101/326140">10.1101/326140.</a></p>
+
+<h4>Science policy with the Future of Research (FoR)</h4>
+
+Bankston, A., Davis, S. M., Moore, E., Niziolek, C. A., <p><b>Boudreau V.</b>. (2020) <a href="https://osf.io/9k6rz/">Who’s On Board: Early Career Researchers Hold Scarce, yet Valuable Roles Within Scientific Societies.</a> OSF Preprints; doi: <a href="https://osf.io/9k6rz/.</a></p>
 		
 <h4>Methods/protocols/chapters</h4>
 
