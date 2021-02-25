@@ -80,7 +80,7 @@ nav-menu: true
 
 <h4>Science policy with the Future of Research (FoR)</h4>
 
-Bankston, A., Davis, S. M., Moore, E., Niziolek, C. A., <b>Boudreau V.</b>. (2020) <a href="https://elifesciences.org/articles/60829">Research Culture: Why scientific societies should involve more early-career researchers</a> eLife; doi: <a href="https://elifesciences.org/articles/60829">10.7554/eLife.60829.</a></p>
+Bankston, A., Davis, S. M., Moore, E., Niziolek, C. A., <b>Boudreau V.</b>. (2020) <a href="https://elifesciences.org/articles/60829">Research Culture: Why scientific societies should involve more early-career researchers.</a> eLife; doi: <a href="https://elifesciences.org/articles/60829">10.7554/eLife.60829.</a></p>
 		
 <h4>Methods/protocols/chapters</h4>
 
