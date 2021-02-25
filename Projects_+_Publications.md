@@ -80,11 +80,11 @@ nav-menu: true
 
 <h4>Science policy with the Future of Research (FoR)</h4>
 
-Bankston, A., Davis, S. M., Moore, E., Niziolek, C. A., <b>Boudreau V.</b>. (2020) <a href="https://osf.io/9k6rz/">Who’s On Board: Early Career Researchers Hold Scarce, yet Valuable Roles Within Scientific Societies.</a> OSF Preprints; doi: <a href="https://osf.io/9k6rz/">https://osf.io/9k6rz/.</a></p>
+Bankston, A., Davis, S. M., Moore, E., Niziolek, C. A., <b>Boudreau V.</b>. (2020) <a href="https://elifesciences.org/articles/60829">Research Culture: Why scientific societies should involve more early-career researchers</a> eLife; doi: <a href="https://elifesciences.org/articles/60829">10.7554/eLife.60829.</a></p>
 		
 <h4>Methods/protocols/chapters</h4>
 
-<p>Ryan J., Gerhold A.R., <b>Boudreau V.</b>, Smith L., Maddox P.S. (2017) <a href="https://link.springer.com/protocol/10.1007/978-1-4939-6810-7_1">Introduction to Modern Methods in Light Microscopy.</a> In: Markaki Y., Harz H. (eds) Light Microscopy. Methods in Molecular Biology, vol 1563. Humana Press, New York, NY; doi: <a href="https://doi.org/10.1007/978-1-4939-6810-7_1">https://doi.org/10.1007/978-1-4939-6810-7_1.</a></p>
+<p>Ryan J., Gerhold A.R., <b>Boudreau V.</b>, Smith L., Maddox P.S. (2017) <a href="https://link.springer.com/protocol/10.1007/978-1-4939-6810-7_1">Introduction to Modern Methods in Light Microscopy.</a> In: Markaki Y., Harz H. (eds) Light Microscopy. Methods in Molecular Biology, vol 1563. Humana Press, New York, NY; doi: <a href="https://doi.org/10.1007/978-1-4939-6810-7_1">10.1007/978-1-4939-6810-7_1.</a></p>
 
 <h4>Other</h4>
 
