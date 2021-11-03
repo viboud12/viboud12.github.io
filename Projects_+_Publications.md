@@ -20,7 +20,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Structural, metabolic and behavioral relationship between a regenerative ciliate and its endosymbiotic algae</h3>
 				</header>
-				<p>Using a wild species of the large and regenerative unicellular ciliate, Stentor, we are studying the structural, metabolic and behavioural relationship between the ciliate and its algal endosymbionts. Given that this organism is native to a pond in Woods Hole, MA, this project is being pursued in the context of the Marine Biological Laboratory's Physiology Course, an intensive summer research course for graduate students and post-doctoral fellows.</p>
+				<p>Using a wild species of the large and regenerative unicellular ciliate, Stentor, we are studying the structural, metabolic and behavioural relationship between the ciliate and its algal endosymbionts. We are currently developing this Stentor species as a model system for studying algal symbioses and how these symbioses affect the photosynthetic efficiency. This project was started in the context of the Physiology Course at the Marine Biological Laboratory (MBL) and is now being pursued through the MBL's Whitman Center.</p>
 			</div>
 		</div>
 	</section>
