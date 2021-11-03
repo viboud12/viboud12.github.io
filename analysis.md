@@ -2,7 +2,7 @@
 title: Image Analysis
 layout: landing
 description: ImageJ-based image analysis plugins for cell biologists
-image: assets/images/analysis.avi
+image: assets/images/analysis.m4v
 nav-menu: true
 ---
 
