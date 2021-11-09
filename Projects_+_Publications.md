@@ -51,7 +51,7 @@ nav-menu: true
 				<p>Having identified a functional interaction between a cell cycle phosphatase and a nuclear lamina component, we investigated the role for these components in regulating early mitotic events in the developing worm embryo. We uncovered a role for the phosphatase and the nuclear lamina in regulating centrosome separation and positioning during mitotic spindle formation of the first embryonic mitosis. In addition to its role in regulation centrosome separation, we also uncovered a role for this phosphatase in regulating Dynein-mediated cortical force generation.</p>
 				<h4>Publications</h4>
 				<p><b>Boudreau V.</b>, Chen R., Edwards A., Muhammad S., Maddox P.S. (2019) <a href="https://doi.org/10.1091/mbc.E18-10-0631">PP2A-B55/SUR-6 collaborates with the nuclear lamina for centrosome separation during mitotic entry.</a> Mol Biol Cell; doi: <a href="https://doi.org/10.1091/mbc.E18-10-0631">10.1091/mbc.E18-10-0631.</a> <b>Featured in MBoC's Fifth Annual Special Issue on Quantitative Cell Biology.</b></p>
-				<p>Edwards, A., Linehan, J.B., <b>Boudreau V.</b> & Maddox P.S. (2021) <a href="https://www.biorxiv.org/content/10.1101/2021.10.22.465443v2">Single-particle tracking of dynein identifies PP2A B55/SUR-6 as a cell cycle regulator of cortical force generation.</a> bioRxiv; doi: <a href="https://www.biorxiv.org/content/10.1101/2021.10.22.465443v2"> 10.1101/2021.10.22.465443 </a></p>
+				<p>Edwards, A., Linehan, J.B., Maddox P.S. & <b>Boudreau V.</b> (2021) <a href="https://www.biorxiv.org/content/10.1101/2021.10.22.465443v2">Single-particle tracking of dynein identifies PP2A B55/SUR-6 as a cell cycle regulator of cortical force generation.</a> bioRxiv; doi: <a href="https://www.biorxiv.org/content/10.1101/2021.10.22.465443v2"> 10.1101/2021.10.22.465443 </a></p>
 			</div>
 		</div>
 	</section>
@@ -67,7 +67,7 @@ nav-menu: true
 		<p>
 <h4>Research articles</h4>
 		
-<p>Edwards, A., Linehan, J.B., <b>Boudreau V.</b> & Maddox P.S. (2021) <a href="https://www.biorxiv.org/content/10.1101/2021.10.22.465443v2">Single-particle tracking of dynein identifies PP2A B55/SUR-6 as a cell cycle regulator of cortical force generation.</a> bioRxiv; doi: <a href="https://www.biorxiv.org/content/10.1101/2021.10.22.465443v2"> 10.1101/2021.10.22.465443 </a></p>
+<p>Edwards, A., Linehan, J.B., Maddox P.S. & <b>Boudreau V.</b> (2021) <a href="https://www.biorxiv.org/content/10.1101/2021.10.22.465443v2">Single-particle tracking of dynein identifies PP2A B55/SUR-6 as a cell cycle regulator of cortical force generation.</a> bioRxiv; doi: <a href="https://www.biorxiv.org/content/10.1101/2021.10.22.465443v2"> 10.1101/2021.10.22.465443 </a></p>
 		
 <p>Dumont M.*, Gamba R.*, Gestraud P, Klaasen S, Worrall J.T., De Vries S.G., <b>Boudreau V.</b>, Maddox P.S., Lens S.M.A., Kops G.J.P.L., Mc Clelland S., Miga K.H. & Fachinetti D. (2019) <a href="https://doi.org/10.15252/embj.2019102924">Human chromosome-specific aneuploidy is influenced by DNA-dependent centromeric features.</a> EMBO J; doi: <a href="https://doi.org/10.15252/embj.2019102924"> 10.15252/embj.2019102924 </a> *equal contribution</p>
 		
