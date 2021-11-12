@@ -17,11 +17,6 @@ nav-menu: true
 <p>Université de Montréal - <a href="https://www.iric.ca/en/research/principal-investigators/vincent-archambault/
 ">Archambault lab</a> - Institute for Research in Cancer and Immunology</p>
 
-<h4>Postdoc work</h4>
-
-
-<h4>Graduate school</h4>
-
 
 <ul class="actions">
 	<li><a href="assets/CV2019.pdf" class="button big">CV</a></li>
