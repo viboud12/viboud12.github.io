@@ -19,5 +19,5 @@ nav-menu: true
 
 
 <ul class="actions">
-	<li><a href="assets/CV2019.pdf" class="button big">CV</a></li>
+	<li><a href="assets/CV_Vincent Boudreau_2021.pdf" class="button big">CV</a></li>
 </ul>
