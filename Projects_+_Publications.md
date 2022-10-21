@@ -13,6 +13,23 @@ nav-menu: true
 <section id="one" class="spotlights">
 	<section>
 		<a href="Projects_+_Publications" class="image">
+			<img src="assets/images/CarbonDrop_Logo.png" alt="" data-position="25% 25%" />
+		</a>	
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Director of Scientific Research</h3>
+				</header>
+				<p>CarbonDrop, founded by a combination of Silicon Valley veterans and genetic engineers, is the most ambitious carbon sequestration company conceived to date, and our aim is to put a serious dent in the climate problems afflicting the planet.</p>
+
+<p>The company’s goal is to sequester tens of gigatonnes of CO<sub>2</sub> per year, and thus turn the clock back on global warming. Moreover, given the scalability of the biological innovations we intend to develop, we believe we can accomplish this at a cost per tonne that is radically lower than the achievable targets of the other known carbon dioxide removal companies operating today.</p> 
+
+<p>In summary, our goal is to remove more CO<sub>2</sub> from the atmosphere each year than is currently being emitted, and to do this at a cost per tonne of less than $5.00, which is more than an order of magnitude lower than competing proposals.</p>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="Projects_+_Publications" class="image">
 			<img src="assets/images/pyriformis.png" alt="" data-position="25% 25%" />
 		</a>	
 		<div class="content">
