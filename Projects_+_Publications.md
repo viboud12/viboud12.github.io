@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one" class="spotlights">
 	<section>
 		<a href="Projects_+_Publications" class="image">
-			<img src="assets/images/CarbonDrop_Logo.png" alt="" data-position="25% 25%" />
+			<img src="assets/images/CarbonDrop_Logo_Black.png" alt="" data-position="center center" />
 		</a>	
 		<div class="content">
 			<div class="inner">
