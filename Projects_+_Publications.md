@@ -108,6 +108,6 @@ Bankston, A., Davis, S. M., Moore, E., Niziolek, C. A., <b>Boudreau V.</b> (2020
 
 <h4>Other</h4>
 
-<p><a href="https://www.mbl.edu/news/cellular-collaboration-whitman-fellow-shines-light-unique-symbiosis">Cellular Collaboration: Whitman Fellow Shines Light on Unique Symbiosis</i> exhibit.</a></p>
+<p><a href="https://www.mbl.edu/news/cellular-collaboration-whitman-fellow-shines-light-unique-symbiosis">Cellular Collaboration: Whitman Fellow Shines Light on Unique Symbiosis.</a></p>
 
 <p><a href="https://ackland.org/vincent-boudreau-unc-cell-biologist-gets-cajal-tattoo/">Interview with the Ackland Art Museum (UNC-Chapel Hill) for <i>The Beautiful Brain: The Drawings of Santiago Ramón y Cajal</i> exhibit.</a></p>
