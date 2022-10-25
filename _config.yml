@@ -6,12 +6,12 @@ description: Postdoc - Marshall/Niyogi labs - UCSF/UCB
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: University of California, San Francisco and Berkeley
-city: Berkeley
+street_address:
+city: San Francisco
 state: CA
-zip_code: 
+zip_code:
 country: United States of America
-phone: (919) 903-7212
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
