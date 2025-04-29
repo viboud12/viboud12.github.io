@@ -84,7 +84,7 @@ nav-menu: true
 		<p>
 <h4>Research articles</h4>
 
-<p><b>Boudreau V.*</b>, Albright A.R.*, Larson B.T., Gerbich T.M., Fadero T., Yan V., Lucas-DeMott A., Yung J., Moulin S.L.Y., Patiño Descovich C., Slabodnick M.M., Burlacot A., Wang J.R., Niyogi K.K. & Marshall W.F. (2025) <a href="https://www.molbiolcell.org/doi/full/10.1091/mbc.E24-12-0571">The cell biology and genome of Stentor pyriformis, a giant cell that embeds symbiotic algae in a microtubule meshwork.</a> MBoC; doi: <a href="https://www.molbiolcell.org/doi/full/10.1091/mbc.E24-12-0571"> 10.1091/mbc.E24-12-0571</a><b>Featured in MBoC's Special Issue on Evolutionary Cell Biology.</b>.</p>
+<p><b>Boudreau V.*</b>, Albright A.R.*, Larson B.T., Gerbich T.M., Fadero T., Yan V., Lucas-DeMott A., Yung J., Moulin S.L.Y., Patiño Descovich C., Slabodnick M.M., Burlacot A., Wang J.R., Niyogi K.K. & Marshall W.F. (2025) <a href="https://www.molbiolcell.org/doi/full/10.1091/mbc.E24-12-0571">The cell biology and genome of Stentor pyriformis, a giant cell that embeds symbiotic algae in a microtubule meshwork.</a> MBoC; doi: <a href="https://www.molbiolcell.org/doi/full/10.1091/mbc.E24-12-0571"> 10.1091/mbc.E24-12-0571</a>. <b>Featured in MBoC's Special Issue on Evolutionary Cell Biology.</b></p>
 
 <p>Linehan J.B., Edwards G.A., <b>Boudreau V.</b>, Maddox A.S. & Maddox P.S.  (2023) <a href="https://www.cell.com/biophysreports/fulltext/S2667-0747(23)00031-9">Model-based trajectory classification of anchored molecular motor-biopolymer interactions.</a> Biophys. Rep.; doi: <a href="https://www.cell.com/biophysreports/fulltext/S2667-0747(23)00031-9"> 10.1101/2021.10.22.465443</a>.</p>
 		
