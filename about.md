@@ -5,7 +5,7 @@ description: My CV is here
 image: assets/images/TCM17.jpg
 nav-menu: true
 ---
-<p><b>CarbonDrop - Director of Scientific Research</b></p>
+<p><b>CarbonDrop - Executive Vice President of R&D</b></p>
 <p>CarbonDrop, founded by a combination of Silicon Valley veterans and genetic engineers, is the most ambitious carbon sequestration company conceived to date, and our aim is to put a serious dent in the climate problems afflicting the planet.</p>
 <p>The company’s goal is to sequester tens of gigatonnes of CO<sub>2</sub> per year, and thus turn the clock back on global warming. Moreover, given the scalability of the biological innovations we intend to develop, we believe we can accomplish this at a cost per tonne that is radically lower than the achievable targets of the other known carbon dioxide removal companies operating today.</p>
 <p><b>Postdoc</b> (joint appointment)</p>
